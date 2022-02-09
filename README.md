@@ -48,7 +48,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NASA-GukJang&langs_count=10&layout=compact" />&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gukjan9&langs_count=10&layout=compact" />&nbsp;&nbsp;
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@GukJang&layout=compact" />
