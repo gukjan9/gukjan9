@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20Hello!%20&height=150&fontSize=50&fontAlign=30&textBg=true&desc=I'm%20GukJang&&descSize=35&descAlign=67&descAlignY=52&animation=scaleIn)
 
 ### 👋 About Me
-* #### I'm a **Student** who just started developing 💻
+* #### I'm **Still** developing 💻
 * #### Someday I could be a developer, right? 😂<br></br>
 
 ### ⭐️ Languages & Tools
@@ -40,7 +40,7 @@
 <!-- <img src="https://img.shields.io/badge/NodeJS-FA7343?style=for-the-badge&logo=JS&logoColor=white"/></a> -->
 
 ### 📚 Now I'm Doing...
-* #### Developing my **First Android Application**<br></br>
+* #### Learning NodeJS<br></br>
 
 ### 📊 My Stats
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NASA-GukJang&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;
