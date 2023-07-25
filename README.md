@@ -30,8 +30,8 @@
 <img src="https://aleen42.github.io/badges/src/premiere.svg"/></a>
 <img src="https://aleen42.github.io/badges/src/after_effects.svg"/></a>
 <br><br>
-<a href="https://solved.ac/gukjang1997">
-    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gukjang1997" />
+<a href="https://solved.ac/gukjang">
+    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gukjang" />
   <!-- api/v2/ -->
  </a>
 
