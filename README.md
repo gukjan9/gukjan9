@@ -32,6 +32,9 @@
 <br><br>
 <a href="https://solved.ac/gukjang">
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gukjang" />
+<br>
+<a href="https://leetcode.com/gukjan9/">
+    <img src="https://leetcode-stats-six.vercel.app/?username=gukjan9&theme=dark" />
   <!-- api/v2/ -->
  </a>
 
