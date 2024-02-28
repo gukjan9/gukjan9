@@ -37,6 +37,7 @@
 <img src="https://aleen42.github.io/badges/src/premiere.svg"/>
 <img src="https://aleen42.github.io/badges/src/after_effects.svg"/>
 <br><br>
+<!--
 <a href="https://solved.ac/gukjang">
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gukjang" />
 <br>
