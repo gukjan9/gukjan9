@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20Hello!%20&height=150&fontSize=50&fontAlign=30&textBg=true&desc=I'm%20GukJang&&descSize=35&descAlign=67&descAlignY=52&animation=scaleIn)
-
-### 👋 About Me
-* #### I'm **Still** developing 💻<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi,%20there!&fontSize=90&fontAlign=75&fontAlignY=45&animation=twinkling)
 
 ### ⭐️ Languages & Tools
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
