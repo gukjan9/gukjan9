@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi,%20there!&fontSize=90&fontAlignY=45&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20there!&fontSize=90&fontAlignY=45&animation=twinkling)
 
 ### ⭐️ Languages & Tools
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
